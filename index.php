@@ -8,5 +8,6 @@
 <body>
     <h1>Bienvenue sur la page d'accueil</h1>
     <p>Ceci est un exemple de page d'accueil.</p>
+    <p>Derniere modifications</p>
 </body>
 </html>
